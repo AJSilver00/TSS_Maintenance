@@ -239,4 +239,4 @@ class TSS_Maintenance:
                 # TSS_Maintenance.showmydesktop()
                 #         print('My desktop is now showing.')
 
-TSS_Maintenance().Open_TSS('AIMEE', 'Casa7700')
+TSS_Maintenance().Open_TSS('USER', 'PASS')
